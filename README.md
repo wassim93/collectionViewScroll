@@ -1,4 +1,5 @@
 # collectionViewScroll
-	IOS
-	automatic scroll collectionView 
+	Sample Code IOS
 	Swift language
+	automatic scroll collectionView 
+	
